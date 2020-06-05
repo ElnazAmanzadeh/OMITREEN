@@ -1,50 +1,50 @@
-1st Meeting:
-Date: 15-05-2020
-Topics: Introduction of members to OMITREEN- ...
+#1st Meeting:
+##Date: 15-05-2020
+##Topics: Introduction of members to OMITREEN- ...
 
 
-Present Members: 
-Decisions: Group Name.
-
-
-
-2nd Meeting:
-Date: 20-05-2020
-
-Topics: Introduction about Carpentry- Elnaz Amanzadeh Jajin. 
-
-Present Members: Elnaz Amanzadeh Jajin, 
-
-Decisions: 
+##Present Members: 
+##Decisions: Group Name.
 
 
 
+#2nd Meeting:
+##Date: 20-05-2020
 
+##Topics: Introduction about Carpentry- Elnaz Amanzadeh Jajin. 
 
-3rd Meeting: 
+##Present Members: Elnaz Amanzadeh Jajin, 
 
-Date: 27-05-2020
-
-Topics: Workshops and training videos- Dr. Khanteymouri, Dr. Alavi,
-
-Present Members: Elnaz Amanzadeh, 
-
-Decisions: RNA-seq workshop, content preparation.
+##Decisions: 
 
 
 
 
 
+#3rd Meeting: 
 
-4th Meeting:
+##Date: 27-05-2020
 
-Date: 03-06-2020
+##Topics: Workshops and training videos- Dr. Khanteymouri, Dr. Alavi,
 
-Topics: Workshops, Contents.
+##Present Members: Elnaz Amanzadeh, 
 
-Present Members: 
+##Decisions: RNA-seq workshop, content preparation.
 
-Decisions:
+
+
+
+
+
+#4th Meeting:
+
+##Date: 03-06-2020
+
+##Topics: Workshops, Contents.
+
+##Present Members: 
+
+##Decisions:
   * Workshops:
   Principals: evey online workshop should be supported by two helpers.
      - Persian workshop in contribution with Galaxy.
@@ -77,13 +77,13 @@ Decisions:
 
 
 
-5th Meeting:
-Date: 10-06-2020
+#5th Meeting:
+##Date: 10-06-2020
 
-Topics: 
-
-
-Present Members: 
+##Topics: 
 
 
-Decisions: 
+##Present Members: 
+
+
+##Decisions: 
