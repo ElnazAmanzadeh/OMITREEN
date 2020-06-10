@@ -80,10 +80,10 @@
 # 5th Meeting:
 #### Date: 10-06-2020
 
-#### Topics: 
+#### Topics: Programming in R workshop
 
 
-#### Present Members: 
+#### Present Members: Shahryar Alavi
 
 
 #### Decisions: 
