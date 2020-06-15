@@ -87,13 +87,23 @@ Bioinformatics in python workshop.
 Website design.
 GITHub and its application for us.
 
-#### Present Members: Shahryar Alavi
-Elnaz AManzadeh
-Fariba Dehghanian
-Maryam Kay
+#### Present Members:
+Shahryar Alavi, Elnaz Amanzadeh, Fariba Dehghanian, Maryam Kay
 
 #### Decisions: 
 - Making decision about package or topic in R workshop- going on.
 - Declaration of contribution on RNA-Seq workshop.
 - Website- going on.
 - Declaration for contribution in Data Carpentry-Genomics - going on.
+
+
+# 6th Meeting:
+#### Date: 2020-06-17
+
+#### Topics: 
+* Workshop on Bio3D, the R package, by Shahryar Alavi.
+
+#### Present Members:
+
+
+#### Decisions: 
