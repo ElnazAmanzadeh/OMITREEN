@@ -17,7 +17,7 @@ Please add events you are announcing by date as:
 
 
 
-### Date: 2020-07-05
+### Date: 2020-07-10
 #### USCS Genome Browser, Introduction and Application
 - Instructor: Maryam Kay. PhD.
 - Supported by: OMITREEN, University of Isfahan.
