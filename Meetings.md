@@ -27,7 +27,8 @@
 
 #### Topics: Workshops and training videos- Dr. Khanteymouri, Dr. Alavi,
 
-#### Present Members: Elnaz Amanzadeh, 
+#### Present Members: 
+Elnaz Amanzadeh, Amirhosein Naghsh Nilchi 
 
 #### Decisions: RNA-seq workshop, content preparation.
 
@@ -42,7 +43,8 @@
 
 #### Topics: Workshops, Contents.
 
-#### Present Members: 
+#### Present Members:
+Amirhosein Naghsh Nilchi
 
 #### Decisions:
   * Workshops:
@@ -104,6 +106,17 @@ Shahryar Alavi, Elnaz Amanzadeh, Fariba Dehghanian, Maryam Kay
 * Workshop on Bio3D, the R package, by Shahryar Alavi.
 
 #### Present Members:
-
+Amirhosein Naghsh Nilchi
 
 #### Decisions: 
+
+
+# 7th Meeting:
+#### Date: 2020-06-24
+
+#### Topics:
+Report of UCSC workshop advertizing by Amirhosein (5 min)
+
+#### Present Members:
+
+#### Decisions:
