@@ -115,8 +115,9 @@ Amirhosein Naghsh Nilchi
 #### Date: 2020-06-24
 
 #### Topics:
-Report of UCSC workshop advertizing by Amirhosein (5 min)
+* Report of UCSC workshop advertizing by Amirhosein (5 min)
+* Present website theme and choose the best home page style (15 min)
 
 #### Present Members:
-
+Alireza Heidari
 #### Decisions:
