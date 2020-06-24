@@ -117,7 +117,11 @@ Amirhosein Naghsh Nilchi
 #### Topics:
 * Report of UCSC workshop advertizing by Amirhosein (5 min)
 * Present website theme and choose the best home page style (15 min)
-
+* Present PowerPoint slide designs for workshops (5 min)
+* Introduction of microarray analysis in TAC software workshop, its registration deadline, price and holding time (10 min) 
+* Suggestion to define research projects to publish papers as group outcome (5 min)
+* Infographics for every workshops in social media (5 min)
 #### Present Members:
 Alireza Heidari
+Laleh Ebrahimi
 #### Decisions:
