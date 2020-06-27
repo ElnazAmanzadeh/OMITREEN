@@ -125,6 +125,9 @@ Amirhosein Naghsh Nilchi
 Alireza Heidari
 Laleh Ebrahimi
 Elnaz Amanzadeh
+Fariba Dehghanian
+Alireza Khanteymouri
+Amirhossein Naghsh
 
 #### Decisions:
 * Production of appropriate content.
@@ -132,3 +135,6 @@ Elnaz Amanzadeh
 * Inforgraphics for entertainment of workshops.
 * Website theme was partly chosen.
 * Audience identification and estimating the size of society.
+
+
+
