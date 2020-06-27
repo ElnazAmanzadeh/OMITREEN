@@ -138,3 +138,11 @@ Amirhossein Naghsh
 
 
 
+# 8th Meeting:
+#### Date: 2020-07-01
+
+#### Topics:
+
+#### Present Members:
+
+#### Decisions:
