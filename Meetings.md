@@ -127,3 +127,8 @@ Laleh Ebrahimi
 Elnaz Amanzadeh
 
 #### Decisions:
+* Production of appropriate content.
+* Addign all the work items in google sheets by all members.
+* Inforgraphics for entertainment of workshops.
+* Website theme was partly chosen.
+* Audience identification and estimating the size of society.
