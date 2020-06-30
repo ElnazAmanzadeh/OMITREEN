@@ -142,7 +142,7 @@ Amirhossein Naghsh
 #### Date: 2020-07-01
 
 #### Topics:
-
+- Workshops Management: Elnaz Amanzadeh: 5 minutes
 #### Present Members:
 
 #### Decisions:
