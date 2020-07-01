@@ -144,5 +144,13 @@ Amirhossein Naghsh
 #### Topics:
 - Workshops Management: Elnaz Amanzadeh: 5 minutes
 #### Present Members:
+Fariba Dehghanian, Niloofar Zatouni, Airhossein Naghsh, Alireza Khanteymoori, Laleh Ebrahimi, Maryam Kay, Elnaz Amanzadeh Jajin.
 
 #### Decisions:
+* Content Production Group;
+* Instagram Page Management;
+* Workshops Management: 2 Workshops per month- UCSC (Tir), TAC and Data Carpentry-Genomics (mordad), RNA-seq and Full Exome Sequencing;
+* matches in worjshop, video in workshop,
+* Workshops or training courses?
+* Long term targets: Research, Internship, One-year targets, grants, international collaborations... .
+* Division to sub-groups and making reports. 
