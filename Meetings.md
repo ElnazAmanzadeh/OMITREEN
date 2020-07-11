@@ -154,3 +154,24 @@ Fariba Dehghanian, Niloofar Zatouni, Airhossein Naghsh, Alireza Khanteymoori, La
 * Workshops or training courses?
 * Long term targets: Research, Internship, One-year targets, grants, international collaborations... .
 * Division to sub-groups and making reports. 
+
+
+
+# 9th Meeting:
+#### Date: 20-05-2020
+
+#### Topics: 
+
+#### Present Members: 
+
+#### Decisions: 
+
+
+# 10th Meeting
+#### Date: 20-05-2020
+
+#### Topics: Introduction about Carpentry- Elnaz Amanzadeh Jajin. 
+
+#### Present Members: Elnaz Amanzadeh Jajin, 
+
+#### Decisions: 
