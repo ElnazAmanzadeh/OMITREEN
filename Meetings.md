@@ -170,7 +170,12 @@ Fariba Dehghanian, Niloofar Zatouni, Airhossein Naghsh, Alireza Khanteymoori, La
 # 10th Meeting
 #### Date: 20-05-2020
 
-#### Topics: Introduction about Carpentry- Elnaz Amanzadeh Jajin. 
+#### Topics:
+* UCSC Workshop.
+* The necessity of a support team for workshops.
+* Dividing 8hs meetings into two days meetings.
+* Making decisions about contents of Wole Exome Sequencing. Collaboration with Galaxy.
+* Instagram lives.
 
 #### Present Members: Elnaz Amanzadeh Jajin, 
 
