@@ -177,6 +177,21 @@ Fariba Dehghanian, Niloofar Zatouni, Airhossein Naghsh, Alireza Khanteymoori, La
 * Making decisions about contents of Wole Exome Sequencing. Collaboration with Galaxy.
 * Instagram lives.
 
-#### Present Members: Elnaz Amanzadeh Jajin, 
+#### Present Members: Elnaz Amanzadeh Jajin, Dr. Dehghanian, Mr. Alavi, Dr. Kay, Mr. Naghsh, Ms Ebrahimi, Dr. Khanteymouri
+
+#### Decisions: 
+
+
+
+# 11th Meeting
+#### Date: 20-05-2020
+
+#### Topics:
+* Website, 
+* 
+* 
+* 
+
+#### Present Members: Elnaz Amanzadeh Jajin, Dr. Dehghanian, Dr. Khanteymouri, Mr. Heidari, Mr. Alavi, Mr. Naghsh, Ms Ebrahimi
 
 #### Decisions: 
